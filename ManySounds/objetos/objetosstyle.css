@@ -1,0 +1,121 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+}
+
+body
+{
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  color: white;
+  background-image: url('./img/fundo8.gif');
+  background-size: cover;
+  min-height: 660px
+}
+
+main {
+  background-image: url('');
+  background-size: cover;
+  min-height: 660px;
+  text-align: center;
+}
+
+.title
+{
+  text-align: center;
+  padding: 50px;
+  font-size: 50px;
+}
+
+.a {
+  background-image: url("img/bike.png");
+  background-color: transparent;
+  height: 120px; 
+  width: 120px; 
+  font-size: 0px;
+  border: 0px; 
+  margin: 10px
+}
+
+.s {
+  background-image: url("img/buzina.png");
+  background-color: transparent;
+  height: 120px; 
+  width: 120px; 
+  font-size: 0px;
+  border: 0px; 
+  margin: 10px
+}
+
+.d {
+  background-image: url("img/camera.png");
+  background-color: transparent;
+  height: 120px; 
+  width: 120px; 
+  font-size: 0px;
+  border: 0px; 
+  margin: 10px
+}
+
+.f {
+  background-image: url("img/cucco.png");
+  background-color: transparent;
+  height: 120px; 
+  width: 120px; 
+  font-size: 0px;
+  border: 0px; 
+  margin: 10px
+}
+
+.g {
+  background-image: url("img/porta.png");
+  background-color: transparent;
+  height: 120px; 
+  width: 120px; 
+  font-size: 0px;
+  border: 0px; 
+  margin: 10px
+}
+
+.j {
+  background-image: url("img/sino.png");
+  background-color: transparent;
+  height: 120px; 
+  width: 120px; 
+  font-size: 0px;
+  border: 0px; 
+  margin: 10px
+}
+
+.k {
+  background-image: url("img/vidro.png");
+  background-color: transparent;
+  height: 120px; 
+  width: 120px; 
+  font-size: 0px;
+  border: 0px; 
+  margin: 10px
+}
+
+.key {
+
+  font-size: 0;
+  display: inline-block;
+  width: 120px;
+  height: 120px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.copyright {
+  padding-top: 150px;
+}
+
+.h4 {
+  font-weight: 200;
+  font-style: italic;
+}

@@ -1,0 +1,141 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+}
+
+body
+{
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  color: white;
+  background-image: url('./img/fundo8.webp');
+  background-size: cover;
+  min-height: 660px
+}
+
+main {
+  background-image: url('');
+  background-size: cover;
+  min-height: 660px;
+  text-align: center;
+}
+
+.title
+{
+  text-align: center;
+  padding: 50px;
+  font-size: 50px;
+}
+
+.a {
+  background-image: url("img/bat7.png");
+  background-color: transparent;
+  height: 120px; 
+  width: 120px; 
+  font-size: 0px;
+  border: 0px; 
+  margin: 10px
+}
+
+.s {
+  background-image: url("img/bat1.png");
+  background-color: transparent;
+  height: 120px; 
+  width: 120px; 
+  font-size: 0px;
+  border: 0px; 
+  margin: 10px
+}
+
+.d {
+  background-image: url("img/bat4.png");
+  background-color: transparent;
+  height: 120px; 
+  width: 120px; 
+  font-size: 0px;
+  border: 0px; 
+  margin: 10px
+}
+
+.f {
+  background-image: url("img/bat8.png");
+  background-color: transparent;
+  height: 120px; 
+  width: 120px; 
+  font-size: 0px;
+  border: 0px; 
+  margin: 10px
+}
+
+.g {
+  background-image: url("img/bat6.png");
+  background-color: transparent;
+  height: 120px; 
+  width: 120px; 
+  font-size: 0px;
+  border: 0px; 
+  margin: 10px
+}
+
+.h {
+  background-image: url("img/bat9.png");
+  background-color: transparent;
+  height: 120px; 
+  width: 120px; 
+  font-size: 0px;
+  border: 0px; 
+  margin: 10px
+}
+
+.j {
+  background-image: url("img/bat3.png");
+  background-color: transparent;
+  height: 120px; 
+  width: 120px; 
+  font-size: 0px;
+  border: 0px; 
+  margin: 10px
+}
+
+.k {
+  background-image: url("img/bat2.png");
+  background-color: transparent;
+  height: 120px; 
+  width: 120px; 
+  font-size: 0px;
+  border: 0px; 
+  margin: 10px
+}
+
+.l {
+  background-image: url("img/bat5.png");
+  background-color: transparent;
+  height: 120px; 
+  width: 120px; 
+  font-size: 0px;
+  border: 0px; 
+  margin: 10px
+}
+
+.key {
+
+  font-size: 0;
+  display: inline-block;
+  width: 120px;
+  height: 120px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.copyright {
+  padding-top: 150px;
+}
+
+.h4 {
+  font-weight: 200;
+  font-style: italic;
+}

@@ -1,0 +1,49 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+}
+
+body
+{
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  color: white;
+  background-image: url('./img/fundo.png');
+  background-size: cover;
+  min-height: 660px
+}
+
+main {
+  background-size: cover;
+  min-height: 660px;
+  text-align: center;
+}
+
+.title
+{
+  text-align: center;
+  padding: 50px;
+  font-size: 50px;
+}
+
+.a {
+  background-color: transparent;
+  height: 120px; 
+  width: 120px; 
+  font-size: 0px;
+  border: 0px; 
+  margin: 20px
+}
+
+.copyright {
+  padding-top: 50px;
+}
+
+.h4 {
+  font-weight: 200;
+  font-style: italic;
+}
